@@ -1,4 +1,5 @@
-#试炼
-|a|b|c|
-|-|-|-|
-|ss|sss|sss|
+|num|miaoshu|
+|-|-|
+|1|ni|
+|1|ta|
+|2|wo|
